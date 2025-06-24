@@ -1,0 +1,71 @@
+{
+  "client": "mibor/",
+  "timestamp": "2025-06-24T13:17:51.096788",
+  "total_files": 6,
+  "uploaded": 6,
+  "updated": 0,
+  "skipped": 0,
+  "errors": 0,
+  "files": [
+    {
+      "local_path": "mibor/source-01/mibor_events_summary.txt",
+      "blob_path": "mibor/source-01/mibor_events_summary.txt",
+      "size_bytes": 6943,
+      "content_type": "text/plain",
+      "timestamp": "2025-06-24T13:17:48.903194",
+      "status": "uploaded",
+      "message": "File uploaded successfully",
+      "hash": "2f6780b76b3d585bad0d1e9afe5b90476d41578bb503998ff2a7dd4950263f2b"
+    },
+    {
+      "local_path": "mibor/source-01/Organizational Chart Collection Form - fillable form.pdf",
+      "blob_path": "mibor/source-01/Organizational Chart Collection Form - fillable form.pdf",
+      "size_bytes": 108885,
+      "content_type": "application/pdf",
+      "timestamp": "2025-06-24T13:17:49.249876",
+      "status": "uploaded",
+      "message": "File uploaded successfully",
+      "hash": "acb92a9bb15f42c1c26de5f3df9012892860a923c5ce371e9367096054f4bc13"
+    },
+    {
+      "local_path": "mibor/source-01/mibor_events.txt",
+      "blob_path": "mibor/source-01/mibor_events.txt",
+      "size_bytes": 37783,
+      "content_type": "text/plain",
+      "timestamp": "2025-06-24T13:17:49.939981",
+      "status": "uploaded",
+      "message": "File uploaded successfully",
+      "hash": "5fa63a7ce3051bd7a3fd21616dc8d3ec9919faec76aba9c0f32bafa12a66d7a8"
+    },
+    {
+      "local_path": "mibor/source-01/mibor_events.xlsx",
+      "blob_path": "mibor/source-01/mibor_events.xlsx",
+      "size_bytes": 16460,
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "timestamp": "2025-06-24T13:17:50.153788",
+      "status": "uploaded",
+      "message": "File uploaded successfully",
+      "hash": "1696b53116177b33335d6287a5ad90c66436c0f0f7740ef9d7cce30c480e9eb7"
+    },
+    {
+      "local_path": "mibor/source-01/Association Board Roster.pdf",
+      "blob_path": "mibor/source-01/Association Board Roster.pdf",
+      "size_bytes": 102609,
+      "content_type": "application/pdf",
+      "timestamp": "2025-06-24T13:17:50.436052",
+      "status": "uploaded",
+      "message": "File uploaded successfully",
+      "hash": "84e666b723c34d37502b44ae1879e9b9c970ebde834905cc9a753dbe3ca828c6"
+    },
+    {
+      "local_path": "mibor/source-01/General Business Information Collection Form.pdf",
+      "blob_path": "mibor/source-01/General Business Information Collection Form.pdf",
+      "size_bytes": 114735,
+      "content_type": "application/pdf",
+      "timestamp": "2025-06-24T13:17:50.858840",
+      "status": "uploaded",
+      "message": "File uploaded successfully",
+      "hash": "92d05e35e208247022dee193b2c45dd0cfba6a94003b065bab85e8b2fe0e6ca0"
+    }
+  ]
+}
