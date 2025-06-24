@@ -1,0 +1,238 @@
+### Quantitative Course Summary by Month:
+
+    June 2025: 18 courses
+    July 2025: 34 courses
+    August 2025: 27 courses
+    September 2025: 32 courses
+    October 2025: 12 courses
+    November 2025: 13 courses
+
+### Courses Information:
+If there are many courses, summarize the total number of courses from the second month onward with the quantitative summary. For example:
+"Here are the courses for the next month, there are... in the next following months. Do you want to know more?"
+Ensure all courses within a month are included in the summary, including the last course of the month. Do not exclude any courses regardless of their position in the schedule.
+
+June 2025 (18 courses):
+
+    Day 16:
+        RPR's Geo Prospecting Secrets
+        Neighborhood Prospecting
+    Day 17:
+        (Raise the Bar) Bringing Dreams Home: Helping Your Clients Achieve Homeownership
+        Montgomery County Division Meeting
+        Tap Into the Power of RPR Mobile™
+        Intro to the RPR App
+        CompStak & RPR Commercial
+    Day 18:
+        Madison County Division Meeting
+        Advanced RPR App
+    Day 19:
+        Southside Division Meeting
+        Shelby/Decatur Division Meeting
+        Hendricks County Division Meeting w/ Southside Division
+    Day 24:
+        Commercial Basics
+        Advanced RPR App
+    Day 25:
+        MIBOR NextGen presents: Partnerships with a Purpose: Get Connected to Industry Organizations
+        Advanced Commercial
+    Day 26:
+        Hamilton County Division Meeting
+        Next Gen Reports (Beta)
+
+July 2025 (34 courses):
+
+    Day 1:
+        Boone County Division Meeting
+    Day 2:
+        Eastern Division Meeting
+        Morgan County Division Meeting
+    Day 8:
+        Hendricks County Division Meeting
+    Day 9:
+        Hancock County Division Meeting
+        Northside Division Meeting
+    Day 10:
+        Southside Division Meeting
+        Madison County - Operation Love
+    Day 11:
+        Boone County - Town of Advance Parks
+        Hancock County - Greenfield Parks and Recreation
+        Morgan County - Peace Restored
+        Greater Downtown - Keep Indianapolis Beautiful
+        Northside - Indy Art Center
+        Southside - Johnson County Parks and Recreation
+        Brown County - Brown County Health and Living
+        Hamilton County - Hamilton County Parks and Recreation
+        Shelby/ Decatur - Shelbyville Parks and Recreation
+        Montgomery County - Pam’s Promise
+        Eastern - Moorhead Community Resource Center
+        Hendricks County - Hendricks County Parks and Recreation
+    Day 15:
+        Montgomery County Division Meeting
+        Listing Presentations
+    Day 16:
+        Madison County Division Meeting
+        Pricing With Data Driven CMAs
+    Day 17:
+        Shelby/Decatur Division Meeting
+        Shareable Market Trends
+    Day 22:
+        AI Market Trends ScriptWriter
+    Day 23:
+        Neighborhood Prospecting
+    Day 24:
+        Hamilton County Division Meeting
+        Intro to the RPR App
+    Day 28:
+        Advanced RPR App
+    Day 29:
+        Commercial Basics
+    Day 30:
+        Advanced Commercial
+    Day 31:
+        Next Gen Reports (Beta)
+
+August 2025 (27 courses):
+
+    Day 5:
+        Boone County Division Meeting
+        Getting Started with RPR
+        Greater Downtown Division Meeting
+    Day 6:
+        Eastern Division Meeting
+        Morgan County Division Meeting
+        Property and Market Research
+    Day 7:
+        Listing Presentations
+    Day 12:
+        August New Member Pledge and Open House
+        Hendricks County Division Meeting
+        Pricing With Data Driven CMAs
+    Day 13:
+        Hancock County Division Meeting
+        Shareable Market Trends
+        Brown County Division Meeting
+        Northside Division Meeting
+    Day 14:
+        Southside Division Meeting
+        AI Market Trends ScriptWriter
+    Day 19:
+        Montgomery County Division Meeting
+        Neighborhood Prospecting
+    Day 20:
+        Madison County Division Meeting
+        Intro to the RPR App
+    Day 21:
+        Shelby/Decatur Division Meeting
+        Advanced RPR App
+    Day 25:
+        Commercial Basics
+    Day 26:
+        Advanced Commercial
+    Day 27:
+        Next Gen Reports (Beta)
+    Day 28:
+        Hamilton County Division Meeting
+    Day 29:
+        (Raise the Bar) Warning! Your Safety Has Been Compromised!
+
+September 2025 (32 courses):
+
+    Day 2:
+        Boone County Division Meeting
+        Greater Downtown Division Meeting
+    Day 3:
+        Eastern Division Meeting
+        Morgan County Division Meeting
+    Day 8:
+        Getting Started with RPR
+    Day 9:
+        Hendricks County Division Meeting
+        Property and Market Research
+    Day 10:
+        Hancock County Division Meeting
+        Listing Presentations
+    Day 11:
+        Southside Division Meeting
+        Pricing With Data Driven CMAs
+    Day 15:
+        Shareable Market Trends
+    Day 16:
+        Montgomery County Division Meeting
+        AI Market Trends ScriptWriter
+    Day 17:
+        Madison County Division Meeting
+        Neighborhood Prospecting
+    Day 18:
+        Shelby/Decatur Division Meeting
+        Intro to the RPR App
+    Day 22:
+        Professionalism Matters
+        MPRO Boot Camp (In Person)
+        Professionalism Matters for Managers
+    Day 23:
+        Navigating Contracts
+        COE Dos and Don'ts
+        Advanced RPR App
+    Day 24:
+        Making the Most of the BLC®
+        Your Community
+        Commercial Basics
+    Day 25:
+        Hamilton County Division Meeting
+        Working with Industry Partners
+        Hot Topics in Real Estate
+        Advanced Commercial
+    Day 30:
+        Next Gen Reports (Beta)
+
+October 2025 (12 courses):
+
+    Day 1:
+        Eastern Division Meeting
+        Morgan County Division Meeting
+    Day 7:
+        Boone County Division Meeting
+        Greater Downtown Division Meeting
+    Day 8:
+        Hancock County Division Meeting
+        Northside Division Meeting
+    Day 9:
+        Southside Division Meeting
+    Day 14:
+        Hendricks County Division Meeting
+    Day 15:
+        Madison County Division Meeting
+    Day 16:
+        Shelby/Decatur Division Meeting
+    Day 21:
+        Montgomery County Division Meeting
+    Day 23:
+        Hamilton County Division Meeting
+
+November 2025 (13 courses):
+
+    Day 4:
+        Boone County Division Meeting
+        Greater Downtown Division Meeting
+    Day 5:
+        November New Member Pledge and Open House
+        Eastern Division Meeting
+        Morgan County Division Meeting
+    Day 11:
+        Hendricks County Division Meeting
+    Day 12:
+        Hancock County Division Meeting
+        Brown County Division Meeting
+        Northside Division Meeting
+    Day 13:
+        Southside Division Meeting
+    Day 18:
+        Montgomery County Division Meeting
+    Day 19:
+        Madison County Division Meeting
+    Day 20:
+        Shelby/Decatur Division Meeting
+
+Total courses listed: 136.
